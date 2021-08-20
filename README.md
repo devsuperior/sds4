@@ -28,7 +28,7 @@ Não se inscreveu ainda? Corre que ainda dá tempo:
 
 ## Vídeos de preparação
 
-Se você ainda não viu os vídeos de preparação da SDS, corre lá que ainda dá tempo:
+Enquanto o evento não começa, bora aquecer com os vídeos de preparação:
 
 ### 1) Super revisão de OO e SQL
 
