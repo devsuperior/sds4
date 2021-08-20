@@ -28,7 +28,7 @@ Não se inscreveu ainda? Corre que ainda dá tempo:
 
 ## Vídeos de preparação
 
-Se você ainda não viu os vídeos de preparação da SDS 3.0, corre lá que ainda dá tempo:
+Se você ainda não viu os vídeos de preparação da SDS, corre lá que ainda dá tempo:
 
 ### 1) Super revisão de OO e SQL
 
