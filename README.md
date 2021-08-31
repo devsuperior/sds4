@@ -36,7 +36,7 @@ Enquanto o evento não começa, bora aquecer com os vídeos de preparação:
 
 ### 2) JpaRepository: interface boladona do Spring
 
-[![Image](https://img.youtube.com/vi/os6hdZbCnpM/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/os6hdZbCnpM)
+[![Image](https://img.youtube.com/vi/jh_T5_o3qKE/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/jh_T5_o3qKE)
 
 ### 3) Modelo de domínio: como implementar no Spring
 
