@@ -9,26 +9,29 @@
 [![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
-Bem-vindos ao repositório oficial da SDS 4.0!
+# Recados importantes
 
-Em breve vamos colocar aqui todos materiais para você acompanhar o evento e realizar o projeto. 
+## 1) Os conteúdos ficarão disponíveis somente até domingo às 23h59
 
-Enquanto isso, confere abaixo os guias de instalação das ferramentas que vamos usar no evento, bem como os vídeos de preparação.
-
-## Página de inscrição do evento
-
-Não se inscreveu ainda? Corre que ainda dá tempo:
-
+## 2) Página de inscrição do evento
 - [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds4-inscricao-org)
 
-## Guias de instalação das ferramentas
+## 3) Guias de instalação das ferramentas
 - [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds3/tree/main/_instalacao/windows)
 - [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds3/tree/main/_instalacao/linux)
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds3/tree/main/_instalacao/mac)
 
-## Vídeos de preparação
+## 4) Discord do evento para dúvidas e networking
+- [Discord da Semana Spring React](https://discord.gg/QAk4vBKke4)
 
-Enquanto o evento não começa, bora aquecer com os vídeos de preparação:
+  - Apresente-se no canal `#papo-e-networking`
+  - Fique de olho nos avisos e no canal `#duvidas-frequentes`
+
+## 5) Passos para obter o certificado na nossa plataforma
+- [Passos para obter o certificado](https://github.com/devsuperior/sds4/tree/main/_certificado)
+
+
+## Conteúdos de preparação
 
 ### 1) Super revisão de OO e SQL
 
