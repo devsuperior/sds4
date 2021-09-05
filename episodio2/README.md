@@ -21,7 +21,7 @@
 
 ### Entendendo o modelo de dados
 
-https://github.com/devsuperior/sds3/raw/main/_assets/dados.xlsx
+https://github.com/devsuperior/sds4/raw/main/_assets/dados.xlsx
 
 ### Passo 1: configuração de segurança
 

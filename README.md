@@ -17,9 +17,9 @@
 - [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds4-inscricao-org)
 
 ## 3) Guias de instalação das ferramentas
-- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds3/tree/main/_instalacao/windows)
-- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds3/tree/main/_instalacao/linux)
-- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds3/tree/main/_instalacao/mac)
+- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds4/tree/main/_instalacao/windows)
+- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds4/tree/main/_instalacao/linux)
+- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds4/tree/main/_instalacao/mac)
 
 ## 4) Discord do evento para dúvidas e networking
 - [Discord da Semana Spring React](https://discord.gg/QAk4vBKke4)
