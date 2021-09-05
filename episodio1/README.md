@@ -215,7 +215,6 @@ const options = {
   - Publish directory: frontend/build
 
 - Configurações adicionais
-  - Site settings -> Build & Deploy: (colocar o nome da sua subpasta do projeto frontend)
   - Site settings -> Domain Management: (colocar o nome que você quiser)
   - Deploys -> Trigger deploy
 
