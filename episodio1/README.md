@@ -209,10 +209,12 @@ const options = {
 ```
 - **COMMIT: Static charts**
 ### Passo 6: implantação no Netlify
-- Publicação no Netlify
-  - Comando: yarn build
-  - Diretório: build
-  - Deploy! (vai quebrar)
+- Deploy básico
+  - Base directory: frontend
+  - Build command: yarn build
+  - Publish directory: frontend/build
+
+- Configurações adicionais
   - Site settings -> Build & Deploy: (colocar o nome da sua subpasta do projeto frontend)
   - Site settings -> Domain Management: (colocar o nome que você quiser)
   - Deploys -> Trigger deploy
