@@ -6,11 +6,9 @@
 
 https://devsuperior.com.br/sds4-inscricao-org
 
-## 2) Acesse a plataforma da DevSuperior
+## 2) Acesse a plataforma da DevSuperior e use a função 'Esqueci minha senha' para definir sua senha
 
 https://learn.devsuperior.com
-
-**Primeiro acesso? Mude sua senha!**
 
 ## 3) Preencha sua identificação na plataforma
 
