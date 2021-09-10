@@ -140,16 +140,6 @@ Argumentos que um componente React pode receber
 
 - **COMMIT: Pagination**
 
-## ERRATA NO EPISÓDIO 3 AOS 1:40:30 
-
-Favor trocar o nome da variável no Netlify de ~~BACKEND_URL~~ para **REACT_APP_BACKEND_URL**
-
-Depois de trocar, vá em:
-
-Deploys -> Trigger deploy -> Deploy site
-
-
-
 ## **PARABÉNS!**
 
 ![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)
